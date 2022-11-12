@@ -1,7 +1,7 @@
 # Camera-calibration-Circular-calibration-plate  
 相机标定之圆形标定板(Camera calibration-Circular calibration plate)   
 直接复制到自己的main.cpp文件中即可运行  
-需要注意修改的地方：  
+需要注意修改的地方
 1. main()主函数中，File_Diretory1是图片所储存的路劲，注意修改自己的路径  
 2. main()主函数中，FileType是图片的类型（后缀，注意所以图片的类型都要相同才可以）  
 3. main()主函数中，board_size为标定板的尺寸（水平和垂直的圆的数目）  
